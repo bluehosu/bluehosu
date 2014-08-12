@@ -1,0 +1,4 @@
+C:\Users\kimjo2\git\bluehosu\bluehosu\bluehosu\bin\Debug\bluehosu.exe
+C:\Users\kimjo2\git\bluehosu\bluehosu\bluehosu\bin\Debug\bluehosu.pdb
+C:\Users\kimjo2\git\bluehosu\bluehosu\bluehosu\obj\x86\Debug\bluehosu.exe
+C:\Users\kimjo2\git\bluehosu\bluehosu\bluehosu\obj\x86\Debug\bluehosu.pdb
